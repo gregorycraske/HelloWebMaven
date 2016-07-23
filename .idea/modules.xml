@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloWebMaven.iml" filepath="$PROJECT_DIR$/HelloWebMaven.iml" />
-    </modules>
-  </component>
-</project>
